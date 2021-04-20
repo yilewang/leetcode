@@ -5,9 +5,6 @@ def factorial_trail_zeros(n):
     for n in range(1, n+1):
 	    factorial = factorial*n
 
-    fact = str(factorial)
-    y = np.zeros(len(fact))
-
     f = list(map(int, str(factorial)))
     count = 0
     for x in range(len(f)-1, 0, -1):
