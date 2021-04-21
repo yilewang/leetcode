@@ -13,3 +13,10 @@ Python solution: [link](Python/D1_factorial_trailing_zeros.py)
 Java solution:
 
 
+**Day2**:
+
+'easy'
+
+Python soluition: [link]
+
+Java solution: [link]
