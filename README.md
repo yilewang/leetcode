@@ -15,7 +15,7 @@ Java solution:
 
 **Day2**:
 
-'easy'
+`easy`
 
 Python soluition: [link]
 
