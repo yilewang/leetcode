@@ -15,8 +15,16 @@ Java solution:
 
 **Day2**:
 
-`easy`
+`easy` The longest common prefix: [Question Link](https://leetcode.com/problems/longest-common-prefix/)
 
-Python soluition: [link]
+Python soluition: [link](Python/D2-easy14.py)
 
-Java solution: [link]
+Java solution: [link](Java/LongestCommonPrefix.java)
+
+**Day3**
+
+`easy` 	Climbing Stairs: [Question Link](https://leetcode.com/problems/climbing-stairs/)
+
+Python solution: [link](Python/D3-easy70.py)
+
+Java solution: [link]()
