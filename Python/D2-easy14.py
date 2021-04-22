@@ -27,8 +27,7 @@ def longest_prefix(str_list):
             co+=1
         else:
             break
-
-    print("The numer of same prefix is: ",co)
+    return co
 
 s = ['flower', 'flate', 'flag', 'flame', 'florida', 'fluence', 'flight', 'flood']
 longest_prefix(s)
