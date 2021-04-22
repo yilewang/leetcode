@@ -8,7 +8,7 @@ One hour per day to practice programming. Two versions of the solution will be p
 
 `easy` The factorial trailing zeros: [Question Link](https://leetcode.com/problems/factorial-trailing-zeroes/)
 
-Python solution: [link](Python/D1_factorial_trailing_zeros.py)
+Python solution: [link](Python/D1-easy172.py)
 
 Java solution:
 
