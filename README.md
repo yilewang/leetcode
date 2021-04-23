@@ -28,3 +28,12 @@ Java solution: [link](Java/LongestCommonPrefix.java)
 Python solution: [link](Python/D3-easy70.py)
 
 Java solution: [link]()
+
+
+**Day4**
+
+'easy' Length of last word: [Question Link](https://leetcode.com/problems/length-of-last-word/)
+
+Python solution: [link](Python/D4-easy58.py)
+
+Java solution: 
