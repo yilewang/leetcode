@@ -36,4 +36,12 @@ Java solution: [link]()
 
 Python solution: [link](Python/D4-easy58.py)
 
-Java solution: 
+Java solution:
+
+**Day5**
+
+`easy` Fizz Buzz: [Question Link](https://leetcode.com/problems/fizz-buzz/)
+
+Python solution: [Link](Python/D5-easy412.py)
+
+ 
