@@ -49,3 +49,9 @@ Python solution: [Link](Python/D5-easy412.py)
 `easy`  Add Strings: [Question Link](https://leetcode.com/problems/add-strings/)
 
 Python solution: [link](Python/D6-easy415.py)
+
+`easy` Perfect Number[Question Link](https://leetcode.com/problems/perfect-number/)
+
+Python solution: [Link](Python/D6-easy507.py)
+
+
