@@ -50,8 +50,11 @@ Python solution: [Link](Python/D5-easy412.py)
 
 Python solution: [link](Python/D6-easy415.py)
 
+Java solution:
+
 `easy` Perfect Number[Question Link](https://leetcode.com/problems/perfect-number/)
 
 Python solution: [Link](Python/D6-easy507.py)
 
+Java solution:
 
