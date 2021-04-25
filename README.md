@@ -44,4 +44,8 @@ Java solution:
 
 Python solution: [Link](Python/D5-easy412.py)
 
- 
+**Day6**
+
+`easy`  Add Strings: [Question Link](https://leetcode.com/problems/add-strings/)
+
+Python solution: [link](Python/D6-easy415.py)
