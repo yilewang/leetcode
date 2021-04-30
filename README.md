@@ -58,3 +58,10 @@ Python solution: [Link](Python/D6-easy507.py)
 
 Java solution:
 
+**Day7**
+
+`easy` buy and sell: [Question Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+
+Python solution: [Link](Python/D7-easy121.py)
+
+Java solution:
