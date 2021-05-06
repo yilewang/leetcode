@@ -1,0 +1,38 @@
+
+public static int maxProfit (int [] prices)
+{
+  if (prices.length == 0)
+  {
+  return 0; 
+  
+  }
+  
+  int buy = prices[0];
+  int sell = prices[0];
+  int maxProfit = 0; 
+  
+  for (int i = 1; i< prices.length; i++)
+  {
+     //to update the sell value
+     if (prices[i] > sell)
+     {
+        sell = prices[i];
+     }
+     else  // if the next value is not higher than sell
+     {
+          maxProfit += (sell - buy);
+          buy = prices[i];
+          sell = prices[i]; //start a new point
+     
+     }
+  
+  }
+  
+  maxProfit += (sell - buy); 
+  return maxProfit; 
+  
+
+
+
+
+}
