@@ -93,3 +93,8 @@ Java solution:
 Python solution: [link](Python/D10-easy-118.py)
 
 
+**Day11**
+
+`easy` Two Sum: [Question Link](https://leetcode.com/problems/two-sum/)
+
+Python solution: [link](Python/D11-easy-1.py)
