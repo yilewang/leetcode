@@ -72,6 +72,15 @@ Java solution:
 
 `easy` best time to buy and sell 2[Question Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 
-Python solution: [link](Python/D9-easy112.py)
+Python solution: [link](Python/D9-easy122.py)
 
-Java solution: 
+Java solution:
+
+
+**Day10**
+
+`easy` Pascal's Triangle[Question Link](https://leetcode.com/problems/pascals-triangle/)
+
+Python solution: [link](Python/D10-easy118.py)
+
+
